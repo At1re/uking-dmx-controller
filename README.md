@@ -1,6 +1,6 @@
 # U`King DMX Controller Setup Guide
 
-## What You Built
+## What I Built
 A fully-functional web-based DMX controller for your U`King 5-beam laser light with:
 - ✅ Audio-reactive mode (responds to bass/music)
 - ✅ 6 scene presets
